@@ -1,0 +1,12 @@
+button {
+  background-color: red;
+  color: white;
+  border-style: none;
+  border: radius 55px;
+}
+p {
+  border-style: solid;
+  background-color: blueviolet;
+  width: 150px;
+  height: 100px;
+}
